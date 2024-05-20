@@ -1,0 +1,10 @@
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\bin\Debug\Tree View.exe.config
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\bin\Debug\Tree View.exe
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\bin\Debug\Tree View.pdb
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\obj\Debug\Tree View.csproj.AssemblyReference.cache
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\obj\Debug\Tree_View.Form1.resources
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\obj\Debug\Tree_View.Properties.Resources.resources
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\obj\Debug\Tree View.csproj.GenerateResource.cache
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\obj\Debug\Tree View.csproj.CoreCompileInputs.cache
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\obj\Debug\Tree View.exe
+C:\Users\TECH ZONE\source\repos\Tree View\Tree View\obj\Debug\Tree View.pdb
