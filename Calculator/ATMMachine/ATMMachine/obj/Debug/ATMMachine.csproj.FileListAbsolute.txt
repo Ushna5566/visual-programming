@@ -1,0 +1,7 @@
+D:\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe.config
+D:\ATMMachine\ATMMachine\bin\Debug\ATMMachine.exe
+D:\ATMMachine\ATMMachine\bin\Debug\ATMMachine.pdb
+D:\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csproj.AssemblyReference.cache
+D:\ATMMachine\ATMMachine\obj\Debug\ATMMachine.csproj.CoreCompileInputs.cache
+D:\ATMMachine\ATMMachine\obj\Debug\ATMMachine.exe
+D:\ATMMachine\ATMMachine\obj\Debug\ATMMachine.pdb
