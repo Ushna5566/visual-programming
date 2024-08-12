@@ -1,0 +1,7 @@
+D:\Electricity bill\Electricity bill\bin\Debug\Electricity bill.exe.config
+D:\Electricity bill\Electricity bill\bin\Debug\Electricity bill.exe
+D:\Electricity bill\Electricity bill\bin\Debug\Electricity bill.pdb
+D:\Electricity bill\Electricity bill\obj\Debug\Electricity bill.csproj.AssemblyReference.cache
+D:\Electricity bill\Electricity bill\obj\Debug\Electricity bill.csproj.CoreCompileInputs.cache
+D:\Electricity bill\Electricity bill\obj\Debug\Electricity bill.exe
+D:\Electricity bill\Electricity bill\obj\Debug\Electricity bill.pdb
